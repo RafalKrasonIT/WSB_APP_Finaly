@@ -1,5 +1,5 @@
 # What:
-Prosta aplikacja z zapisaem listy rzeczy i czynności do wykoania.
+e- Notatnik prosta aplikacja z zapisaem listy rzeczy i czynności do wykoania.
 # Why:
 Aplikacja ma być stworzona w celu ułatweinia planowania pracy oraz oragnizacji zadań
 # How:
